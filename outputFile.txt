@@ -1,0 +1,63 @@
+Jobs for 9.19.2024.15.59.18<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page - UHN Careers</title>
+    <script>
+        const webroot = '/UHNCareers/';
+    </script>
+    <link rel="icon" href="/UHNCareers/favicon.ico" />
+    
+    
+        <link rel="stylesheet" href="/UHNCareers/css/site.min.css?v=ONOr7Ew_RW2JOjTsc-CBD3g4EcUREMluL8o5E2p2tkw" />
+        <script type="module" src="/UHNCareers/js/site.min.js?v=ub7eG8uU1xhg6V2L_qXk1EYQvUepDkoTBpGOOpRWabU"></script>
+    
+    
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                
+                <a class="navbar-brand py-0" href="/UHNCareers">
+                    <img src="/UHNCareers/img/logo-uhn-2.png" class="uhnlogo img-fluid" style="height:51px;">
+                    <span style="font-size:22px;"> Careers</span>
+                   </a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <input id="tcnt" type="hidden" value="282" />
+<h4 class="my-5 text-uhnblue">Current Opportunities</h4>
+<div class="card">
+    <div class="card-body p-xl-5">
+        <div class="panel panel-body">
+            <div class="table-responsive">
+                <div class="table-page-label">
+                    Showing <span class="start"> 0 </span> to <span class="end"> 0 </span> of <span class="total"> 0 </span> entries <span class="filtered" hidden> (filtered from <span class="total-raw"> 0 </span> total entries)</span> 
+                </div>
+                <data-grid id="job-grid" 
+                    data-url="/UHNCareers/Home/GetAll?tcnt=282"
+                    data-server="false"
+                    data-autosize="true"
+                    data-autohide-pager="false"
+                    data-hide-per-page="false"
+                    data-sort="false"
+                    data-filter="true"
+                    data-debug="true"
+                    data-responsive="false"
+                    data-menu="false"
+                    data-filter-on-enter="false"
+                    data-spinner-class="spinner-border text-primary">
+                </data-grid>
+            </div>
+        </div>
+    </div>
+</div>
+        </main>
+    </div>
+
+</body>
+</html>

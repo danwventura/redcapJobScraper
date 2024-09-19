@@ -12,4 +12,6 @@ class Hospital:
 
 UHN = Hospital("University Health Network", "Toronto","https://forms.uhn.ca/UHNCareers", ["test"])
 
-print(UHN.__dict__)
+
+#Check UHN object
+# print(UHN.__dict__)
